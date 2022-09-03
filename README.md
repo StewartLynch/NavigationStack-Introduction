@@ -7,7 +7,7 @@ If you want to support my work, you can - </br>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6-OeaFfDXXw
 " target="_blank"><img src="http://img.youtube.com/vi/6-OeaFfDXXw/0.jpg" 
-alt="Grids in iOS16" width="480" height="360" border="1" /></a>
+alt="NavigationStack Intro" width="480" height="360" border="1" /></a>
 
 
 
